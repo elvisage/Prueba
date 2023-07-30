@@ -153,3 +153,5 @@ https://play.cdn.enetres.net/184784E1D210401F8041E3E1266822CC023/028/playlist.m3
 https://movil.ejeserver.com/live/veotv.m3u8
 #EXTINF:-1 tvg-id="Zoom.co" tvg-logo="https://i.imgur.com/euy5zp6.png" group-title="",Zoom
 https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
+#EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Sports",DirecTV Sports Argentina
+http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
