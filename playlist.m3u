@@ -157,7 +157,6 @@ https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
 #EXTINF:-1,Caracol HD
 http://190.26.217.123:8000/play/a12m/index.m3u8
-#EXTM3U
 #EXTINF:-1 group-title="Deportes",BEIN SPORTS Ñ
 http://168.228.194.33:48001/play/a004/index.m3u8
 #EXTINF:-1 group-title="Deportes",Barca Tv HD
