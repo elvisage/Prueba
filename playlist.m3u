@@ -155,3 +155,5 @@ https://movil.ejeserver.com/live/veotv.m3u8
 https://canalzoom.itex.com.co:3027/live/canalzoombr1live.m3u8
 #EXTINF:-1 tvg-id="DirecTVSportsArgentina.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/DirecTV_Sports_Latin_America_%282018%29.png/512px-DirecTV_Sports_Latin_America_%282018%29.png" group-title="Sports",DirecTV Sports Argentina
 http://190.210.221.119/Processor3_9_chunklist_b1300000.m3u8
+#EXTINF:-1,Caracol HD
+http://190.26.217.123:8000/play/a12m/index.m3u8
